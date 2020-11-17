@@ -1,6 +1,7 @@
 body {
   font-size: 120%;
   font-family: Arial;
+  background-image: linear-gradient(to bottom, #fdfcfb 0%, #e2d1c3 100%);
 }
 
 button, input {
@@ -48,4 +49,12 @@ tr:nth-child(even) {
   overflow: auto;
   width: 90%;
   margin: 0 auto;
+}
+
+.fa-plus{
+  color: green;
+}
+
+.fa-minus{
+  color:red;
 }

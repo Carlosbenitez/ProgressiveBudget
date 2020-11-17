@@ -151,3 +151,12 @@ document.querySelector("#add-btn").onclick = function() {
 document.querySelector("#sub-btn").onclick = function() {
   sendTransaction(false);
 };
+
+$(document).ready(function() {
+  $(".status").each(function(){
+      var value = parseInt ( $( this).html() );
+      if (value < 0){
+          $(this).css('color', 'red');
+      }
+  });
+});
