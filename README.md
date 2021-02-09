@@ -16,5 +16,5 @@ Simply name the transaction, put in the ammount, and press either the add or sub
 
 ## Credits
 
-I would like to give a lot of credit to my TA Leigh Tracey she helped me so much understand the concepts needed for this assignment. Also my tutor Phil Loy gave me a lot of pointers with the Javascript.
+I would like to give a lot of credit to my TA Leigh Tracey she helped understand the concepts needed for this assignment. Also my tutor Phil Loy gave me a lot of pointers with the Javascript.
 
